@@ -1,0 +1,2 @@
+n_districts,n_kriging_success,baseline_RMSE,kriging_RMSE,note
+33,33,0.27758717388028625,0.182427091111736,Illustrative district-scale interpolation; not field-level hotspots. No variogram tuning on test districts.

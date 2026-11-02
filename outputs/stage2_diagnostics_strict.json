@@ -1,0 +1,6 @@
+{
+  "max_rhat": 1.01,
+  "min_ess_bulk": 718.0,
+  "divergences": 0,
+  "n": 540
+}

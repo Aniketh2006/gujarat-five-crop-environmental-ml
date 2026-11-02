@@ -1,0 +1,13 @@
+{
+  "rows": 1031,
+  "districts": 33,
+  "crops": 5,
+  "years": 8,
+  "cultivation_labels": {
+    "1.0": 696,
+    "0.0": 335
+  },
+  "preferred_yield_rows": 682,
+  "strict_yield_rows": 540,
+  "coordinate_review_count": 32
+}

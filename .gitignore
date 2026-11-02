@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+*.log
+
+# Temporary archives
+*.zip
+
+# LaTeX build files
+*.aux
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Bayesian posterior samples
+outputs/*.nc

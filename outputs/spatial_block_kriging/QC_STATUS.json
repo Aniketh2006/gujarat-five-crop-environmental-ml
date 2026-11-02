@@ -1,0 +1,6 @@
+{
+  "districts": 33,
+  "spatial_blocks": 5,
+  "verdict": "PASS_OUTPERFORMS_MEAN_BASELINE",
+  "note": "Fixed five-block spatial validation. District-scale interpolation only. Not field-level hotspot validation."
+}

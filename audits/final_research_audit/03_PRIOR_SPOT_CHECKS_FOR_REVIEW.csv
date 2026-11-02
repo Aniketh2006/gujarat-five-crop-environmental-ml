@@ -1,0 +1,4 @@
+crop,district,agri_year,source_area_ha,source_production_tonnes,source_published_yield_kg_ha,source_pdf_page,printed_page,table,matching_v6_source_rows,v6_area_ha,v6_production_tonnes,verification
+Cumin,Ahmedabad,2015-16,17600,14432,820,137,116,8.14,1,17600.0,14432.0,MATCH
+Fennel,Banaskantha,2015-16,4900,10535,2150,139,118,8.16,1,4900.0,10535.0,MATCH
+Fenugreek,Amreli,2015-16,106,176,1660,140,119,8.17,1,106.0,176.0,MATCH

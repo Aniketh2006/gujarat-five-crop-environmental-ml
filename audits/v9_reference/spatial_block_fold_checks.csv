@@ -1,0 +1,6 @@
+block,train_rows,test_rows,train_districts,test_districts,test_positive,test_negative
+1,903,128,29,4,103,25
+2,780,251,25,8,156,95
+3,804,227,26,7,209,18
+4,856,175,27,6,49,126
+5,781,250,25,8,179,71

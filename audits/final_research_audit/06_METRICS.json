@@ -1,0 +1,21 @@
+{
+  "source_rows": 1312,
+  "panel_rows": 1031,
+  "zero_review_rows": 335,
+  "zero_source_cells_independently_verified_in_this_run": 0,
+  "prior_spot_check_rows": 3,
+  "bayesian_parameter_rows": 20,
+  "bayesian_preferred_max_rhat": 1.0,
+  "bayesian_strict_max_rhat": 1.01,
+  "bayesian_preferred_min_ess": 988.0,
+  "bayesian_strict_min_ess": 718.0,
+  "bayesian_sign_changes": 0,
+  "bayesian_preferred_intervals_exclude_zero": 5,
+  "bayesian_strict_intervals_exclude_zero": 5,
+  "kriging_LODO_RMSE": 0.18242709111173597,
+  "kriging_LODO_baseline_RMSE": 0.27758717388028625,
+  "spatial_block_IDW_RMSE": 0.25537051246356224,
+  "spatial_block_mean_RMSE": 0.31066431453826276,
+  "spatial_block_idw_beats_mean": true,
+  "note": "Spatial-block check uses IDW, NOT kriging; blocked kriging remains untested."
+}

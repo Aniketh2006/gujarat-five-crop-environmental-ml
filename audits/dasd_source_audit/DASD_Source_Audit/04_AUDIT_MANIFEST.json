@@ -1,0 +1,10 @@
+{
+  "pdf_sha256": "1a26f7bfd2d445bd9b1832b3f1fd856e07622d2eb8a431d5762d934d3d91ca84",
+  "source_csv_sha256": "8c26014f735435acdfa74b45f5e33e545611d10f2ba56f3d93c7beb63d902602",
+  "pdf_pages": 186,
+  "review_queue_dasd_rows": 320,
+  "zero_area_queue_rows": 335,
+  "independently_checked_spot_rows": 3,
+  "spot_matches": 3,
+  "publication_certified": false
+}
